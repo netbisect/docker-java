@@ -9,4 +9,4 @@ Run like this:
 
 ### Build it on your own
 * Clone the repo
-* run `docker build -t netbisect/java:jre-8 .` in its root folder.
+* run `docker build -t netbisect/java:latest .` in its root folder.
