@@ -2,7 +2,7 @@ FROM alpine:3.7
 MAINTAINER HFM <haniffm@kth.se>
 
 
-RUN apk --update add openjdk8-jre && \
+RUN apk --update add openjdk8-jre=8.151.12-r0 && \
  rm -rf /var/cache/apk/*
 
 
