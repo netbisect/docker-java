@@ -1,5 +1,5 @@
 # docker-java
-Minimal (108.3 MB) Docker image with java.
+Minimal (81.5 MB) Docker image with java.
 
 ### Try it
 Run like this:
